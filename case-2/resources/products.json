@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Toetsenbord",
+    "price": 49.95
+  },
+  {
+    "id": 2,
+    "name": "Monitor",
+    "price": 149.00
+  },
+  {
+    "id": 3,
+    "name": "Muis",
+    "price": 25.50
+  },
+  {
+    "id": 4,
+    "name": "HDMI kabel",
+    "price": 0.00
+  },
+  {
+    "id": 5,
+    "name": "Oplader"
+  }
+]
